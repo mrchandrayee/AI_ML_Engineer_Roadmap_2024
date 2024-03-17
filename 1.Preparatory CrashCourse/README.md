@@ -2,6 +2,8 @@ To install MySQL locally, you can follow these general steps:
 
 https://www.youtube.com/watch?v=k5tICunelSU
 
+**https://dev.mysql.com/downloads/installer/**
+
 1. **Download MySQL**: Visit the [MySQL Community Server](https://dev.mysql.com/doc/mysql-getting-started/en/) page and download the appropriate version for your operating system.
 2. **Install MySQL**: 
    - For **Windows**, you can use the MySQL Installer from the [MySQL website](https://dev.mysql.com/doc/refman/8.2/en/windows-installation.html) which simplifies the process.
