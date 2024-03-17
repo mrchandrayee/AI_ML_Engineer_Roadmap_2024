@@ -1,8 +1,16 @@
 To install MySQL locally, you can follow these general steps:
+"How to install MySQL 8.0.34 Server and Workbench latest version on Windows 10," the process involves downloading the MySQL software, choosing a custom setup during installation, and following specific steps to complete the installation successfully.
+1. Download MySQL 8.0.34 Server and Workbench from the link provided in the **https://dev.mysql.com/downloads/installer/**.
+2. Select the correct version (331 MB) for download.
+3. Click on the download link and wait for the download to complete.
+4. Locate the downloaded MSI file and double-click on it to start the installation process.
+5. Choose a custom setup type during installation for more control over the installation process.
+6. Follow the on-screen instructions to complete the installation of MySQL 8.0.34 Server and Workbench on Windows 10.
+
+This process outlined in the video guides users through downloading and installing MySQL 8.0.34 Server and Workbench on a Windows 10 system with detailed steps for a successful setup.
 
 https://www.youtube.com/watch?v=k5tICunelSU
 
-**https://dev.mysql.com/downloads/installer/**
 
 1. **Download MySQL**: Visit the [MySQL Community Server](https://dev.mysql.com/doc/mysql-getting-started/en/) page and download the appropriate version for your operating system.
 2. **Install MySQL**: 
